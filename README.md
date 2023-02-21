@@ -5,7 +5,7 @@ In this project, a a Data Engineer was recently hired by a New York based coffee
 
 The Data Engineer was tasked with designing a relational database management systems for improved operational efficiencies and to make it easier for their executives to make data driven decisions.
 
-Currently, the company's data resides in several systems; accounting software, supplier's database, point of sales (POS) systems, and even spreadsheets.
+Currently, the company's data resides in several systems; accounting software, supplier's database, point of sales (POS) systems, and even spreadsheets..
 
 
 ## `Steps Taken`
