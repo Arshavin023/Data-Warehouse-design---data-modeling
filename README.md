@@ -17,4 +17,5 @@ In this, a data warehouse is to be designed that would serve as single source of
 7. Materialized views was created and exported as CSV files
 8. Exported data was then imported into Db2 and  databases
 
+## ER Diagram
 ![DHW ERD](https://github.com/Arshavin023/Data-Warehouse-design---data-modeling/assets/77532336/bbcdf2a8-200c-4122-a856-578964935008)
