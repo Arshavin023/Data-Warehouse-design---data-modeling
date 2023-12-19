@@ -1,6 +1,4 @@
-# Data Warehouse and data modeling
-
-## `Scenario:`
+## Description
 The project focused on utilizing snowflake schema to model sales, customer, and employee data which was used to establish a centralized data warehouse for analytics. Activities included analyzing the data to identify entities, primary and foreign keys, and areas for normalization. This involved creating an ER diagram, generating DDL queries for table creation, and populating tables with existing data.
 
 ## Existing data
