@@ -1,11 +1,7 @@
 # Database Design and Implementation
 
 ## `Scenario:`
-In this project, a a Data Engineer was recently hired by a New York based coffee shop chain that was looking to expand nationally by opening a number of franchise locations. As part of their expansion process, they want to streamline operations and revamp their data infrastructure. 
-
-The Data Engineer was tasked with designing a relational database management systems for improved operational efficiencies and to make it easier for their executives to make data driven decisions.
-
-Currently, the company's data resides in several systems; accounting software, supplier's database, point of sales (POS) systems, and even spreadsheets..
+In this project, a Data Engineer was tasked with designing a relational database management systems for improved operational efficiencies and to make it easier for their executives to make data driven decisions. Currently, the company's data resides in several systems; accounting software, supplier's database, point of sales (POS) systems, and even spreadsheets..
 
 
 ## `Steps Taken`
