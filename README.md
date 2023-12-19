@@ -1,7 +1,7 @@
 # Data Warehouse and data modeling
 
 ## `Scenario:`
-In this project, a Data Engineer was tasked with designing a relational database management systems for improved operational efficiencies and to make it easier for their executives to make data driven decisions. Currently, the company's data resides in several systems; accounting software, supplier's database, point of sales (POS) systems, and even spreadsheets..
+In this project, a Data Engineer was tasked with designing data warehouse that would serve as single source of truth for analytics. Historical Data from different source systems were collected; accounting software, supplier's database, point of sales (POS) systems and CSV files.
 
 ## Existing data
 ![existing_data](https://github.com/Arshavin023/Data-Warehouse-design---data-modeling/assets/77532336/6cdc15f3-647a-4191-8d18-10a0eac2cc0a)
