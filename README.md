@@ -1,4 +1,4 @@
-# Database Design and Implementation
+# Data Warehouse and data modeling
 
 ## `Scenario:`
 In this project, a Data Engineer was tasked with designing a relational database management systems for improved operational efficiencies and to make it easier for their executives to make data driven decisions. Currently, the company's data resides in several systems; accounting software, supplier's database, point of sales (POS) systems, and even spreadsheets..
