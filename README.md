@@ -1,7 +1,7 @@
 # Data Warehouse and data modeling
 
 ## `Scenario:`
-In this, a data warehouse is to be designed that would serve as single source of truth for analytics. Historical Data from different source systems were collected; accounting software, supplier's database, point of sales (POS) systems and CSV files.
+The project focused on utilizing snowflake schema to model sales, customer, and employee data which was used to establish a centralized data warehouse for analytics. Activities included analyzing the data to identify entities, primary and foreign keys, and areas for normalization. This involved creating an ER diagram, generating DDL queries for table creation, and populating tables with existing data.
 
 ## Existing data
 ![existing_data](https://github.com/Arshavin023/Data-Warehouse-design---data-modeling/assets/77532336/6cdc15f3-647a-4191-8d18-10a0eac2cc0a)
